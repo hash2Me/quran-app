@@ -1,0 +1,1142 @@
+[
+  {
+    "SurahNumber": 1,
+    "NameArabic": "الفاتحة",
+    "NameEnglish": "Al-Fatihah",
+    "NameMeaning": "The Opening",
+    "AyahCount": 7,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 5
+  },
+  {
+    "SurahNumber": 2,
+    "NameArabic": "البقرة",
+    "NameEnglish": "Al-Baqarah",
+    "NameMeaning": "The Cow",
+    "AyahCount": 286,
+    "Type": "Medinan",
+    "RukuCount": 40,
+    "RevelationOrder": 87
+  },
+  {
+    "SurahNumber": 3,
+    "NameArabic": "آل عمران",
+    "NameEnglish": "Ali 'Imran",
+    "NameMeaning": "Family of Imran",
+    "AyahCount": 200,
+    "Type": "Medinan",
+    "RukuCount": 20,
+    "RevelationOrder": 89
+  },
+  {
+    "SurahNumber": 4,
+    "NameArabic": "النساء",
+    "NameEnglish": "An-Nisa",
+    "NameMeaning": "The Women",
+    "AyahCount": 176,
+    "Type": "Medinan",
+    "RukuCount": 24,
+    "RevelationOrder": 92
+  },
+  {
+    "SurahNumber": 5,
+    "NameArabic": "المائدة",
+    "NameEnglish": "Al-Ma'idah",
+    "NameMeaning": "The Table Spread",
+    "AyahCount": 120,
+    "Type": "Medinan",
+    "RukuCount": 16,
+    "RevelationOrder": 112
+  },
+  {
+    "SurahNumber": 6,
+    "NameArabic": "الأنعام",
+    "NameEnglish": "Al-An'am",
+    "NameMeaning": "The Cattle",
+    "AyahCount": 165,
+    "Type": "Meccan",
+    "RukuCount": 20,
+    "RevelationOrder": 55
+  },
+  {
+    "SurahNumber": 7,
+    "NameArabic": "الأعراف",
+    "NameEnglish": "Al-A'raf",
+    "NameMeaning": "The Heights",
+    "AyahCount": 206,
+    "Type": "Meccan",
+    "RukuCount": 24,
+    "RevelationOrder": 39
+  },
+  {
+    "SurahNumber": 8,
+    "NameArabic": "الأنفال",
+    "NameEnglish": "Al-Anfal",
+    "NameMeaning": "The Spoils of War",
+    "AyahCount": 75,
+    "Type": "Medinan",
+    "RukuCount": 10,
+    "RevelationOrder": 88
+  },
+  {
+    "SurahNumber": 9,
+    "NameArabic": "التوبة",
+    "NameEnglish": "At-Tawbah",
+    "NameMeaning": "The Repentance",
+    "AyahCount": 129,
+    "Type": "Medinan",
+    "RukuCount": 16,
+    "RevelationOrder": 113
+  },
+  {
+    "SurahNumber": 10,
+    "NameArabic": "يونس",
+    "NameEnglish": "Yunus",
+    "NameMeaning": "Jonah",
+    "AyahCount": 109,
+    "Type": "Meccan",
+    "RukuCount": 11,
+    "RevelationOrder": 51
+  },
+  {
+    "SurahNumber": 11,
+    "NameArabic": "هود",
+    "NameEnglish": "Hud",
+    "NameMeaning": "Hud",
+    "AyahCount": 123,
+    "Type": "Meccan",
+    "RukuCount": 10,
+    "RevelationOrder": 52
+  },
+  {
+    "SurahNumber": 12,
+    "NameArabic": "يوسف",
+    "NameEnglish": "Yusuf",
+    "NameMeaning": "Joseph",
+    "AyahCount": 111,
+    "Type": "Meccan",
+    "RukuCount": 12,
+    "RevelationOrder": 53
+  },
+  {
+    "SurahNumber": 13,
+    "NameArabic": "الرعد",
+    "NameEnglish": "Ar-Ra'd",
+    "NameMeaning": "The Thunder",
+    "AyahCount": 43,
+    "Type": "Medinan",
+    "RukuCount": 6,
+    "RevelationOrder": 96
+  },
+  {
+    "SurahNumber": 14,
+    "NameArabic": "إبراهيم",
+    "NameEnglish": "Ibrahim",
+    "NameMeaning": "Abraham",
+    "AyahCount": 52,
+    "Type": "Meccan",
+    "RukuCount": 7,
+    "RevelationOrder": 72
+  },
+  {
+    "SurahNumber": 15,
+    "NameArabic": "الحجر",
+    "NameEnglish": "Al-Hijr",
+    "NameMeaning": "The Rocky Tract",
+    "AyahCount": 99,
+    "Type": "Meccan",
+    "RukuCount": 6,
+    "RevelationOrder": 54
+  },
+  {
+    "SurahNumber": 16,
+    "NameArabic": "النحل",
+    "NameEnglish": "An-Nahl",
+    "NameMeaning": "The Bee",
+    "AyahCount": 128,
+    "Type": "Meccan",
+    "RukuCount": 16,
+    "RevelationOrder": 70
+  },
+  {
+    "SurahNumber": 17,
+    "NameArabic": "الإسراء",
+    "NameEnglish": "Al-Isra",
+    "NameMeaning": "The Night Journey",
+    "AyahCount": 111,
+    "Type": "Meccan",
+    "RukuCount": 12,
+    "RevelationOrder": 50
+  },
+  {
+    "SurahNumber": 18,
+    "NameArabic": "الكهف",
+    "NameEnglish": "Al-Kahf",
+    "NameMeaning": "The Cave",
+    "AyahCount": 110,
+    "Type": "Meccan",
+    "RukuCount": 12,
+    "RevelationOrder": 69
+  },
+  {
+    "SurahNumber": 19,
+    "NameArabic": "مريم",
+    "NameEnglish": "Maryam",
+    "NameMeaning": "Mary",
+    "AyahCount": 98,
+    "Type": "Meccan",
+    "RukuCount": 6,
+    "RevelationOrder": 44
+  },
+  {
+    "SurahNumber": 20,
+    "NameArabic": "طه",
+    "NameEnglish": "Taha",
+    "NameMeaning": "Ta-Ha",
+    "AyahCount": 135,
+    "Type": "Meccan",
+    "RukuCount": 8,
+    "RevelationOrder": 45
+  },
+  {
+    "SurahNumber": 21,
+    "NameArabic": "الأنبياء",
+    "NameEnglish": "Al-Anbiya",
+    "NameMeaning": "The Prophets",
+    "AyahCount": 112,
+    "Type": "Meccan",
+    "RukuCount": 7,
+    "RevelationOrder": 73
+  },
+  {
+    "SurahNumber": 22,
+    "NameArabic": "الحج",
+    "NameEnglish": "Al-Hajj",
+    "NameMeaning": "The Pilgrimage",
+    "AyahCount": 78,
+    "Type": "Medinan",
+    "RukuCount": 10,
+    "RevelationOrder": 103
+  },
+  {
+    "SurahNumber": 23,
+    "NameArabic": "المؤمنون",
+    "NameEnglish": "Al-Mu'minun",
+    "NameMeaning": "The Believers",
+    "AyahCount": 118,
+    "Type": "Meccan",
+    "RukuCount": 6,
+    "RevelationOrder": 74
+  },
+  {
+    "SurahNumber": 24,
+    "NameArabic": "النور",
+    "NameEnglish": "An-Nur",
+    "NameMeaning": "The Light",
+    "AyahCount": 64,
+    "Type": "Medinan",
+    "RukuCount": 9,
+    "RevelationOrder": 102
+  },
+  {
+    "SurahNumber": 25,
+    "NameArabic": "الفرقان",
+    "NameEnglish": "Al-Furqan",
+    "NameMeaning": "The Criterion",
+    "AyahCount": 77,
+    "Type": "Meccan",
+    "RukuCount": 6,
+    "RevelationOrder": 42
+  },
+  {
+    "SurahNumber": 26,
+    "NameArabic": "الشعراء",
+    "NameEnglish": "Ash-Shu'ara",
+    "NameMeaning": "The Poets",
+    "AyahCount": 227,
+    "Type": "Meccan",
+    "RukuCount": 11,
+    "RevelationOrder": 47
+  },
+  {
+    "SurahNumber": 27,
+    "NameArabic": "النمل",
+    "NameEnglish": "An-Naml",
+    "NameMeaning": "The Ant",
+    "AyahCount": 93,
+    "Type": "Meccan",
+    "RukuCount": 7,
+    "RevelationOrder": 48
+  },
+  {
+    "SurahNumber": 28,
+    "NameArabic": "القصص",
+    "NameEnglish": "Al-Qasas",
+    "NameMeaning": "The Stories",
+    "AyahCount": 88,
+    "Type": "Meccan",
+    "RukuCount": 8,
+    "RevelationOrder": 49
+  },
+  {
+    "SurahNumber": 29,
+    "NameArabic": "العنكبوت",
+    "NameEnglish": "Al-'Ankabut",
+    "NameMeaning": "The Spider",
+    "AyahCount": 69,
+    "Type": "Meccan",
+    "RukuCount": 7,
+    "RevelationOrder": 85
+  },
+  {
+    "SurahNumber": 30,
+    "NameArabic": "الروم",
+    "NameEnglish": "Ar-Rum",
+    "NameMeaning": "The Romans",
+    "AyahCount": 60,
+    "Type": "Meccan",
+    "RukuCount": 6,
+    "RevelationOrder": 84
+  },
+  {
+    "SurahNumber": 31,
+    "NameArabic": "لقمان",
+    "NameEnglish": "Luqman",
+    "NameMeaning": "Luqman",
+    "AyahCount": 34,
+    "Type": "Meccan",
+    "RukuCount": 3,
+    "RevelationOrder": 57
+  },
+  {
+    "SurahNumber": 32,
+    "NameArabic": "السجدة",
+    "NameEnglish": "As-Sajdah",
+    "NameMeaning": "The Prostration",
+    "AyahCount": 30,
+    "Type": "Meccan",
+    "RukuCount": 3,
+    "RevelationOrder": 75
+  },
+  {
+    "SurahNumber": 33,
+    "NameArabic": "الأحزاب",
+    "NameEnglish": "Al-Ahzab",
+    "NameMeaning": "The Combined Forces",
+    "AyahCount": 73,
+    "Type": "Medinan",
+    "RukuCount": 9,
+    "RevelationOrder": 90
+  },
+  {
+    "SurahNumber": 34,
+    "NameArabic": "سبأ",
+    "NameEnglish": "Saba",
+    "NameMeaning": "Sheba",
+    "AyahCount": 54,
+    "Type": "Meccan",
+    "RukuCount": 6,
+    "RevelationOrder": 58
+  },
+  {
+    "SurahNumber": 35,
+    "NameArabic": "فاطر",
+    "NameEnglish": "Fatir",
+    "NameMeaning": "The Originator",
+    "AyahCount": 45,
+    "Type": "Meccan",
+    "RukuCount": 5,
+    "RevelationOrder": 43
+  },
+  {
+    "SurahNumber": 36,
+    "NameArabic": "يس",
+    "NameEnglish": "Ya-Sin",
+    "NameMeaning": "Ya-Sin",
+    "AyahCount": 83,
+    "Type": "Meccan",
+    "RukuCount": 5,
+    "RevelationOrder": 41
+  },
+  {
+    "SurahNumber": 37,
+    "NameArabic": "الصافات",
+    "NameEnglish": "As-Saffat",
+    "NameMeaning": "Those Who Set The Ranks",
+    "AyahCount": 182,
+    "Type": "Meccan",
+    "RukuCount": 5,
+    "RevelationOrder": 56
+  },
+  {
+    "SurahNumber": 38,
+    "NameArabic": "ص",
+    "NameEnglish": "Sad",
+    "NameMeaning": "The Letter Sad",
+    "AyahCount": 88,
+    "Type": "Meccan",
+    "RukuCount": 5,
+    "RevelationOrder": 38
+  },
+  {
+    "SurahNumber": 39,
+    "NameArabic": "الزمر",
+    "NameEnglish": "Az-Zumar",
+    "NameMeaning": "The Troops",
+    "AyahCount": 75,
+    "Type": "Meccan",
+    "RukuCount": 8,
+    "RevelationOrder": 59
+  },
+  {
+    "SurahNumber": 40,
+    "NameArabic": "غافر",
+    "NameEnglish": "Ghafir",
+    "NameMeaning": "The Forgiver",
+    "AyahCount": 85,
+    "Type": "Meccan",
+    "RukuCount": 9,
+    "RevelationOrder": 60
+  },
+  {
+    "SurahNumber": 41,
+    "NameArabic": "فصلت",
+    "NameEnglish": "Fussilat",
+    "NameMeaning": "Explained in Detail",
+    "AyahCount": 54,
+    "Type": "Meccan",
+    "RukuCount": 6,
+    "RevelationOrder": 61
+  },
+  {
+    "SurahNumber": 42,
+    "NameArabic": "الشورى",
+    "NameEnglish": "Ash-Shura",
+    "NameMeaning": "The Consultation",
+    "AyahCount": 53,
+    "Type": "Meccan",
+    "RukuCount": 5,
+    "RevelationOrder": 62
+  },
+  {
+    "SurahNumber": 43,
+    "NameArabic": "الزخرف",
+    "NameEnglish": "Az-Zukhruf",
+    "NameMeaning": "The Ornaments of Gold",
+    "AyahCount": 89,
+    "Type": "Meccan",
+    "RukuCount": 7,
+    "RevelationOrder": 63
+  },
+  {
+    "SurahNumber": 44,
+    "NameArabic": "الدخان",
+    "NameEnglish": "Ad-Dukhan",
+    "NameMeaning": "The Smoke",
+    "AyahCount": 59,
+    "Type": "Meccan",
+    "RukuCount": 3,
+    "RevelationOrder": 64
+  },
+  {
+    "SurahNumber": 45,
+    "NameArabic": "الجاثية",
+    "NameEnglish": "Al-Jathiyah",
+    "NameMeaning": "The Crouching",
+    "AyahCount": 37,
+    "Type": "Meccan",
+    "RukuCount": 4,
+    "RevelationOrder": 65
+  },
+  {
+    "SurahNumber": 46,
+    "NameArabic": "الأحقاف",
+    "NameEnglish": "Al-Ahqaf",
+    "NameMeaning": "The Wind-Curved Sandhills",
+    "AyahCount": 35,
+    "Type": "Meccan",
+    "RukuCount": 4,
+    "RevelationOrder": 66
+  },
+  {
+    "SurahNumber": 47,
+    "NameArabic": "محمد",
+    "NameEnglish": "Muhammad",
+    "NameMeaning": "Muhammad",
+    "AyahCount": 38,
+    "Type": "Medinan",
+    "RukuCount": 4,
+    "RevelationOrder": 95
+  },
+  {
+    "SurahNumber": 48,
+    "NameArabic": "الفتح",
+    "NameEnglish": "Al-Fath",
+    "NameMeaning": "The Victory",
+    "AyahCount": 29,
+    "Type": "Medinan",
+    "RukuCount": 4,
+    "RevelationOrder": 111
+  },
+  {
+    "SurahNumber": 49,
+    "NameArabic": "الحجرات",
+    "NameEnglish": "Al-Hujurat",
+    "NameMeaning": "The Rooms",
+    "AyahCount": 18,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 106
+  },
+  {
+    "SurahNumber": 50,
+    "NameArabic": "ق",
+    "NameEnglish": "Qaf",
+    "NameMeaning": "The Letter Qaf",
+    "AyahCount": 45,
+    "Type": "Meccan",
+    "RukuCount": 3,
+    "RevelationOrder": 34
+  },
+  {
+    "SurahNumber": 51,
+    "NameArabic": "الذاريات",
+    "NameEnglish": "Adh-Dhariyat",
+    "NameMeaning": "The Winnowing Winds",
+    "AyahCount": 60,
+    "Type": "Meccan",
+    "RukuCount": 3,
+    "RevelationOrder": 67
+  },
+  {
+    "SurahNumber": 52,
+    "NameArabic": "الطور",
+    "NameEnglish": "At-Tur",
+    "NameMeaning": "The Mount",
+    "AyahCount": 49,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 76
+  },
+  {
+    "SurahNumber": 53,
+    "NameArabic": "النجم",
+    "NameEnglish": "An-Najm",
+    "NameMeaning": "The Star",
+    "AyahCount": 62,
+    "Type": "Meccan",
+    "RukuCount": 3,
+    "RevelationOrder": 23
+  },
+  {
+    "SurahNumber": 54,
+    "NameArabic": "القمر",
+    "NameEnglish": "Al-Qamar",
+    "NameMeaning": "The Moon",
+    "AyahCount": 55,
+    "Type": "Meccan",
+    "RukuCount": 3,
+    "RevelationOrder": 37
+  },
+  {
+    "SurahNumber": 55,
+    "NameArabic": "الرحمن",
+    "NameEnglish": "Ar-Rahman",
+    "NameMeaning": "The Beneficent",
+    "AyahCount": 78,
+    "Type": "Medinan",
+    "RukuCount": 3,
+    "RevelationOrder": 97
+  },
+  {
+    "SurahNumber": 56,
+    "NameArabic": "الواقعة",
+    "NameEnglish": "Al-Waqi'ah",
+    "NameMeaning": "The Inevitable",
+    "AyahCount": 96,
+    "Type": "Meccan",
+    "RukuCount": 3,
+    "RevelationOrder": 46
+  },
+  {
+    "SurahNumber": 57,
+    "NameArabic": "الحديد",
+    "NameEnglish": "Al-Hadid",
+    "NameMeaning": "The Iron",
+    "AyahCount": 29,
+    "Type": "Medinan",
+    "RukuCount": 4,
+    "RevelationOrder": 94
+  },
+  {
+    "SurahNumber": 58,
+    "NameArabic": "المجادلة",
+    "NameEnglish": "Al-Mujadila",
+    "NameMeaning": "The Pleading Woman",
+    "AyahCount": 22,
+    "Type": "Medinan",
+    "RukuCount": 3,
+    "RevelationOrder": 105
+  },
+  {
+    "SurahNumber": 59,
+    "NameArabic": "الحشر",
+    "NameEnglish": "Al-Hashr",
+    "NameMeaning": "The Exile",
+    "AyahCount": 24,
+    "Type": "Medinan",
+    "RukuCount": 3,
+    "RevelationOrder": 101
+  },
+  {
+    "SurahNumber": 60,
+    "NameArabic": "الممتحنة",
+    "NameEnglish": "Al-Mumtahanah",
+    "NameMeaning": "She That Is To Be Examined",
+    "AyahCount": 13,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 91
+  },
+  {
+    "SurahNumber": 61,
+    "NameArabic": "الصف",
+    "NameEnglish": "As-Saf",
+    "NameMeaning": "The Ranks",
+    "AyahCount": 14,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 109
+  },
+  {
+    "SurahNumber": 62,
+    "NameArabic": "الجمعة",
+    "NameEnglish": "Al-Jumu'ah",
+    "NameMeaning": "The Congregation, Friday",
+    "AyahCount": 11,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 110
+  },
+  {
+    "SurahNumber": 63,
+    "NameArabic": "المنافقون",
+    "NameEnglish": "Al-Munafiqun",
+    "NameMeaning": "The Hypocrites",
+    "AyahCount": 11,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 104
+  },
+  {
+    "SurahNumber": 64,
+    "NameArabic": "التغابن",
+    "NameEnglish": "At-Taghabun",
+    "NameMeaning": "The Mutual Disillusion",
+    "AyahCount": 18,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 108
+  },
+  {
+    "SurahNumber": 65,
+    "NameArabic": "الطلاق",
+    "NameEnglish": "At-Talaq",
+    "NameMeaning": "The Divorce",
+    "AyahCount": 12,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 99
+  },
+  {
+    "SurahNumber": 66,
+    "NameArabic": "التحريم",
+    "NameEnglish": "At-Tahrim",
+    "NameMeaning": "The Prohibition",
+    "AyahCount": 12,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 107
+  },
+  {
+    "SurahNumber": 67,
+    "NameArabic": "الملك",
+    "NameEnglish": "Al-Mulk",
+    "NameMeaning": "The Sovereignty",
+    "AyahCount": 30,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 77
+  },
+  {
+    "SurahNumber": 68,
+    "NameArabic": "القلم",
+    "NameEnglish": "Al-Qalam",
+    "NameMeaning": "The Pen",
+    "AyahCount": 52,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 2
+  },
+  {
+    "SurahNumber": 69,
+    "NameArabic": "الحاقة",
+    "NameEnglish": "Al-Haqqah",
+    "NameMeaning": "The Reality",
+    "AyahCount": 52,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 78
+  },
+  {
+    "SurahNumber": 70,
+    "NameArabic": "المعارج",
+    "NameEnglish": "Al-Ma'arij",
+    "NameMeaning": "The Ascending Stairways",
+    "AyahCount": 44,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 79
+  },
+  {
+    "SurahNumber": 71,
+    "NameArabic": "نوح",
+    "NameEnglish": "Nuh",
+    "NameMeaning": "Noah",
+    "AyahCount": 28,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 71
+  },
+  {
+    "SurahNumber": 72,
+    "NameArabic": "الجن",
+    "NameEnglish": "Al-Jinn",
+    "NameMeaning": "The Jinn",
+    "AyahCount": 28,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 40
+  },
+  {
+    "SurahNumber": 73,
+    "NameArabic": "المزمل",
+    "NameEnglish": "Al-Muzzammil",
+    "NameMeaning": "The Enshrouded One",
+    "AyahCount": 20,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 3
+  },
+  {
+    "SurahNumber": 74,
+    "NameArabic": "المدثر",
+    "NameEnglish": "Al-Muddaththir",
+    "NameMeaning": "The Cloaked One",
+    "AyahCount": 56,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 4
+  },
+  {
+    "SurahNumber": 75,
+    "NameArabic": "القيامة",
+    "NameEnglish": "Al-Qiyamah",
+    "NameMeaning": "The Resurrection",
+    "AyahCount": 40,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 31
+  },
+  {
+    "SurahNumber": 76,
+    "NameArabic": "الإنسان",
+    "NameEnglish": "Al-Insan",
+    "NameMeaning": "The Human",
+    "AyahCount": 31,
+    "Type": "Medinan",
+    "RukuCount": 2,
+    "RevelationOrder": 98
+  },
+  {
+    "SurahNumber": 77,
+    "NameArabic": "المرسلات",
+    "NameEnglish": "Al-Mursalat",
+    "NameMeaning": "The Emissaries",
+    "AyahCount": 50,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 33
+  },
+  {
+    "SurahNumber": 78,
+    "NameArabic": "النبأ",
+    "NameEnglish": "An-Naba",
+    "NameMeaning": "The Tidings",
+    "AyahCount": 40,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 80
+  },
+  {
+    "SurahNumber": 79,
+    "NameArabic": "النازعات",
+    "NameEnglish": "An-Nazi'at",
+    "NameMeaning": "Those Who Drag Forth",
+    "AyahCount": 46,
+    "Type": "Meccan",
+    "RukuCount": 2,
+    "RevelationOrder": 81
+  },
+  {
+    "SurahNumber": 80,
+    "NameArabic": "عبس",
+    "NameEnglish": "Abasa",
+    "NameMeaning": "He Frowned",
+    "AyahCount": 42,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 24
+  },
+  {
+    "SurahNumber": 81,
+    "NameArabic": "التكوير",
+    "NameEnglish": "At-Takwir",
+    "NameMeaning": "The Overthrowing",
+    "AyahCount": 29,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 7
+  },
+  {
+    "SurahNumber": 82,
+    "NameArabic": "الانفطار",
+    "NameEnglish": "Al-Infitar",
+    "NameMeaning": "The Cleaving",
+    "AyahCount": 19,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 82
+  },
+  {
+    "SurahNumber": 83,
+    "NameArabic": "المطففين",
+    "NameEnglish": "Al-Mutaffifin",
+    "NameMeaning": "The Defrauding",
+    "AyahCount": 36,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 86
+  },
+  {
+    "SurahNumber": 84,
+    "NameArabic": "الانشقاق",
+    "NameEnglish": "Al-Inshiqaq",
+    "NameMeaning": "The Splitting Open",
+    "AyahCount": 25,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 83
+  },
+  {
+    "SurahNumber": 85,
+    "NameArabic": "البروج",
+    "NameEnglish": "Al-Buruj",
+    "NameMeaning": "The Mansions of the Stars",
+    "AyahCount": 22,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 27
+  },
+  {
+    "SurahNumber": 86,
+    "NameArabic": "الطارق",
+    "NameEnglish": "At-Tariq",
+    "NameMeaning": "The Nightcomer",
+    "AyahCount": 17,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 36
+  },
+  {
+    "SurahNumber": 87,
+    "NameArabic": "الأعلى",
+    "NameEnglish": "Al-A'la",
+    "NameMeaning": "The Most High",
+    "AyahCount": 19,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 8
+  },
+  {
+    "SurahNumber": 88,
+    "NameArabic": "الغاشية",
+    "NameEnglish": "Al-Ghashiyah",
+    "NameMeaning": "The Overwhelming",
+    "AyahCount": 26,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 68
+  },
+  {
+    "SurahNumber": 89,
+    "NameArabic": "الفجر",
+    "NameEnglish": "Al-Fajr",
+    "NameMeaning": "The Dawn",
+    "AyahCount": 30,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 10
+  },
+  {
+    "SurahNumber": 90,
+    "NameArabic": "البلد",
+    "NameEnglish": "Al-Balad",
+    "NameMeaning": "The City",
+    "AyahCount": 20,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 35
+  },
+  {
+    "SurahNumber": 91,
+    "NameArabic": "الشمس",
+    "NameEnglish": "Ash-Shams",
+    "NameMeaning": "The Sun",
+    "AyahCount": 15,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 26
+  },
+  {
+    "SurahNumber": 92,
+    "NameArabic": "الليل",
+    "NameEnglish": "Al-Layl",
+    "NameMeaning": "The Night",
+    "AyahCount": 21,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 9
+  },
+  {
+    "SurahNumber": 93,
+    "NameArabic": "الضحى",
+    "NameEnglish": "Ad-Duha",
+    "NameMeaning": "The Morning Hours",
+    "AyahCount": 11,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 11
+  },
+  {
+    "SurahNumber": 94,
+    "NameArabic": "الشرح",
+    "NameEnglish": "Ash-Sharh",
+    "NameMeaning": "The Relief",
+    "AyahCount": 8,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 12
+  },
+  {
+    "SurahNumber": 95,
+    "NameArabic": "التين",
+    "NameEnglish": "At-Tin",
+    "NameMeaning": "The Fig",
+    "AyahCount": 8,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 28
+  },
+  {
+    "SurahNumber": 96,
+    "NameArabic": "العلق",
+    "NameEnglish": "Al-'Alaq",
+    "NameMeaning": "The Clot",
+    "AyahCount": 19,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 1
+  },
+  {
+    "SurahNumber": 97,
+    "NameArabic": "القدر",
+    "NameEnglish": "Al-Qadr",
+    "NameMeaning": "The Power",
+    "AyahCount": 5,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 25
+  },
+  {
+    "SurahNumber": 98,
+    "NameArabic": "البينة",
+    "NameEnglish": "Al-Bayyinah",
+    "NameMeaning": "The Clear Proof",
+    "AyahCount": 8,
+    "Type": "Medinan",
+    "RukuCount": 1,
+    "RevelationOrder": 100
+  },
+  {
+    "SurahNumber": 99,
+    "NameArabic": "الزلزلة",
+    "NameEnglish": "Az-Zalzalah",
+    "NameMeaning": "The Earthquake",
+    "AyahCount": 8,
+    "Type": "Medinan",
+    "RukuCount": 1,
+    "RevelationOrder": 93
+  },
+  {
+    "SurahNumber": 100,
+    "NameArabic": "العاديات",
+    "NameEnglish": "Al-'Adiyat",
+    "NameMeaning": "The Courser",
+    "AyahCount": 11,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 14
+  },
+  {
+    "SurahNumber": 101,
+    "NameArabic": "القارعة",
+    "NameEnglish": "Al-Qari'ah",
+    "NameMeaning": "The Calamity",
+    "AyahCount": 11,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 30
+  },
+  {
+    "SurahNumber": 102,
+    "NameArabic": "التكاثر",
+    "NameEnglish": "At-Takathur",
+    "NameMeaning": "The Rivalry in World Increase",
+    "AyahCount": 8,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 16
+  },
+  {
+    "SurahNumber": 103,
+    "NameArabic": "العصر",
+    "NameEnglish": "Al-'Asr",
+    "NameMeaning": "The Declining Day",
+    "AyahCount": 3,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 13
+  },
+  {
+    "SurahNumber": 104,
+    "NameArabic": "الهمزة",
+    "NameEnglish": "Al-Humazah",
+    "NameMeaning": "The Traducer",
+    "AyahCount": 9,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 32
+  },
+  {
+    "SurahNumber": 105,
+    "NameArabic": "الفيل",
+    "NameEnglish": "Al-Fil",
+    "NameMeaning": "The Elephant",
+    "AyahCount": 5,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 19
+  },
+  {
+    "SurahNumber": 106,
+    "NameArabic": "قريش",
+    "NameEnglish": "Quraysh",
+    "NameMeaning": "Quraysh",
+    "AyahCount": 4,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 29
+  },
+  {
+    "SurahNumber": 107,
+    "NameArabic": "الماعون",
+    "NameEnglish": "Al-Ma'un",
+    "NameMeaning": "The Small Kindnesses",
+    "AyahCount": 7,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 17
+  },
+  {
+    "SurahNumber": 108,
+    "NameArabic": "الكوثر",
+    "NameEnglish": "Al-Kawthar",
+    "NameMeaning": "The Abundance",
+    "AyahCount": 3,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 15
+  },
+  {
+    "SurahNumber": 109,
+    "NameArabic": "الكافرون",
+    "NameEnglish": "Al-Kafirun",
+    "NameMeaning": "The Disbelievers",
+    "AyahCount": 6,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 18
+  },
+  {
+    "SurahNumber": 110,
+    "NameArabic": "النصر",
+    "NameEnglish": "An-Nasr",
+    "NameMeaning": "The Divine Support",
+    "AyahCount": 3,
+    "Type": "Medinan",
+    "RukuCount": 1,
+    "RevelationOrder": 114
+  },
+  {
+    "SurahNumber": 111,
+    "NameArabic": "المسد",
+    "NameEnglish": "Al-Masad",
+    "NameMeaning": "The Palm Fiber",
+    "AyahCount": 5,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 6
+  },
+  {
+    "SurahNumber": 112,
+    "NameArabic": "الإخلاص",
+    "NameEnglish": "Al-Ikhlas",
+    "NameMeaning": "The Sincerity",
+    "AyahCount": 4,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 22
+  },
+  {
+    "SurahNumber": 113,
+    "NameArabic": "الفلق",
+    "NameEnglish": "Al-Falaq",
+    "NameMeaning": "The Daybreak",
+    "AyahCount": 5,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 20
+  },
+  {
+    "SurahNumber": 114,
+    "NameArabic": "الناس",
+    "NameEnglish": "An-Nas",
+    "NameMeaning": "Mankind",
+    "AyahCount": 6,
+    "Type": "Meccan",
+    "RukuCount": 1,
+    "RevelationOrder": 21
+  }
+]

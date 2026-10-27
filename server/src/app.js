@@ -11,8 +11,8 @@ app.get("/api/health", (req, res) => res.json({ status: "ok" }));
 
 app.use("/api", quranRoutes);
 
-// Unknown routes
-app.use((req, res) => {
+// Unknown API routes
+app.use("/api", (req, res) => {
   res.status(404).json({ error: "Route not found" });
 });
 
